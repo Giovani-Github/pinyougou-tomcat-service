@@ -295,3 +295,77 @@ Tag                                                  Avg(ms)         Min        
 Performance Statistics   2018-08-22 11:18:00 - 2018-08-22 11:19:00
 Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
 
+Performance Statistics   2018-08-22 15:42:00 - 2018-08-22 15:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                           372.0          11         733       361.0           2
+CREATE_TICKET_GRANTING_TICKET                          377.0          16         738       361.0           2
+GRANT_SERVICE_TICKET                                     5.0           5           5         0.0           1
+VALIDATE_SERVICE_TICKET                                  9.0           9           9         0.0           1
+
+Performance Statistics   2018-08-22 15:43:00 - 2018-08-22 15:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 15:44:00 - 2018-08-22 15:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 15:45:00 - 2018-08-22 15:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 15:46:00 - 2018-08-22 15:47:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 15:47:00 - 2018-08-22 15:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 15:48:00 - 2018-08-22 15:49:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 15:49:00 - 2018-08-22 15:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 15:50:00 - 2018-08-22 15:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 15:51:00 - 2018-08-22 15:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 15:52:00 - 2018-08-22 15:53:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 15:53:00 - 2018-08-22 15:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+GRANT_SERVICE_TICKET                                     3.0           3           3         0.0           1
+VALIDATE_SERVICE_TICKET                                  1.0           1           1         0.0           1
+
+Performance Statistics   2018-08-22 15:54:00 - 2018-08-22 15:55:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 15:55:00 - 2018-08-22 15:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 15:56:00 - 2018-08-22 15:57:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 15:59:00 - 2018-08-22 16:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 16:00:00 - 2018-08-22 16:01:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 16:01:00 - 2018-08-22 16:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 16:02:00 - 2018-08-22 16:03:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                           742.0         742         742         0.0           1
+CREATE_TICKET_GRANTING_TICKET                          756.0         756         756         0.0           1
+GRANT_SERVICE_TICKET                                     7.0           7           7         0.0           1
+VALIDATE_SERVICE_TICKET                                 10.0          10          10         0.0           1
+
+Performance Statistics   2018-08-22 16:03:00 - 2018-08-22 16:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-08-22 16:07:00 - 2018-08-22 16:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+DESTROY_TICKET_GRANTING_TICKET                           6.0           6           6         0.0           1
+
