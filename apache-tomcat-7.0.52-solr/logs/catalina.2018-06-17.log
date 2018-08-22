@@ -1,0 +1,118 @@
+六月 17, 2018 5:29:05 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.1.29 using APR version 1.4.8.
+六月 17, 2018 5:29:05 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+六月 17, 2018 5:29:06 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.0.1e 11 Feb 2013)
+六月 17, 2018 5:29:07 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8080"]
+六月 17, 2018 5:29:07 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+六月 17, 2018 5:29:07 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1432 ms
+六月 17, 2018 5:29:07 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+六月 17, 2018 5:29:07 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.52
+六月 17, 2018 5:29:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\giovani-applicaion\apache-tomcat-7.0.52-windows-x64\apache-tomcat-7.0.52\webapps\docs
+六月 17, 2018 5:29:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\giovani-applicaion\apache-tomcat-7.0.52-windows-x64\apache-tomcat-7.0.52\webapps\examples
+六月 17, 2018 5:29:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\giovani-applicaion\apache-tomcat-7.0.52-windows-x64\apache-tomcat-7.0.52\webapps\host-manager
+六月 17, 2018 5:29:08 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\giovani-applicaion\apache-tomcat-7.0.52-windows-x64\apache-tomcat-7.0.52\webapps\manager
+六月 17, 2018 5:29:08 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\giovani-applicaion\apache-tomcat-7.0.52-windows-x64\apache-tomcat-7.0.52\webapps\ROOT
+六月 17, 2018 5:29:08 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8080"]
+六月 17, 2018 5:29:08 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+六月 17, 2018 5:29:08 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1196 ms
+六月 17, 2018 5:29:13 下午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+六月 17, 2018 5:29:14 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8080"]
+六月 17, 2018 5:29:14 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+六月 17, 2018 5:29:14 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+六月 17, 2018 5:29:14 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8080"]
+六月 17, 2018 5:29:14 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]
+六月 17, 2018 5:29:14 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-apr-8080"]
+六月 17, 2018 5:29:14 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-apr-8009"]
+六月 17, 2018 5:31:15 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.1.29 using APR version 1.4.8.
+六月 17, 2018 5:31:15 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+六月 17, 2018 5:31:16 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.0.1e 11 Feb 2013)
+六月 17, 2018 5:31:16 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8080"]
+六月 17, 2018 5:31:16 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+六月 17, 2018 5:31:16 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1433 ms
+六月 17, 2018 5:31:16 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+六月 17, 2018 5:31:16 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.52
+六月 17, 2018 5:31:16 下午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive F:\giovani-applicaion\apache-tomcat-7.0.52-windows-x64\apache-tomcat-7.0.52\webapps\CPT.war
+六月 17, 2018 5:31:19 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\giovani-applicaion\apache-tomcat-7.0.52-windows-x64\apache-tomcat-7.0.52\webapps\docs
+六月 17, 2018 5:31:19 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\giovani-applicaion\apache-tomcat-7.0.52-windows-x64\apache-tomcat-7.0.52\webapps\examples
+六月 17, 2018 5:31:19 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\giovani-applicaion\apache-tomcat-7.0.52-windows-x64\apache-tomcat-7.0.52\webapps\host-manager
+六月 17, 2018 5:31:19 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\giovani-applicaion\apache-tomcat-7.0.52-windows-x64\apache-tomcat-7.0.52\webapps\manager
+六月 17, 2018 5:31:19 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\giovani-applicaion\apache-tomcat-7.0.52-windows-x64\apache-tomcat-7.0.52\webapps\ROOT
+六月 17, 2018 5:31:19 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8080"]
+六月 17, 2018 5:31:19 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+六月 17, 2018 5:31:19 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3092 ms
+六月 17, 2018 5:31:26 下午 org.apache.jasper.compiler.TldLocationsCache tldScanJar
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+六月 17, 2018 5:31:34 下午 com.mchange.v2.log.MLog <clinit>
+信息: MLog clients using java 1.4+ standard logging.
+六月 17, 2018 5:31:34 下午 com.mchange.v2.c3p0.C3P0Registry banner
+信息: Initializing c3p0-0.9.2-pre1 [built 27-May-2010 01:00:49 -0400; debug? true; trace: 10]
+六月 17, 2018 5:31:34 下午 com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource getPoolManager
+信息: Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge0yx9w3mpg3ahoja8b|7858ab6, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge0yx9w3mpg3ahoja8b|7858ab6, idleConnectionTestPeriod -> 0, initialPoolSize -> 5, jdbcUrl -> jdbc:mysql://localhost:3306/cpt?zeroDateTimeBehavior=convertToNull, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 8, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, statementDestroyerNumActiveThreads -> -1, statementDestroyerNumConnectionsInUseAllUsers -> -1, statementDestroyerNumConnectionsInUseDefaultUser -> -1, statementDestroyerNumConnectionsWithDeferredDestroyStatementsAllUsers -> -1, statementDestroyerNumConnectionsWithDeferredDestroyStatementsDefaultUser -> -1, statementDestroyerNumDeferredDestroyStatementsAllUsers -> -1, statementDestroyerNumDeferredDestroyStatementsDefaultUser -> -1, statementDestroyerNumIdleThreads -> -1, statementDestroyerNumTasksPending -> -1, statementDestroyerNumThreads -> -1, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+六月 17, 2018 5:31:53 下午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+六月 17, 2018 5:31:53 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8080"]
+六月 17, 2018 5:31:53 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+六月 17, 2018 5:31:53 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+六月 17, 2018 5:31:53 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc
+严重: The web application [/CPT] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+六月 17, 2018 5:31:53 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/CPT] appears to have started a thread named [Timer-0] but has failed to stop it. This is very likely to create a memory leak.
+六月 17, 2018 5:31:53 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/CPT] appears to have started a thread named [C3P0PooledConnectionPoolManager-Helper Thread-#0] but has failed to stop it. This is very likely to create a memory leak.
+六月 17, 2018 5:31:53 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/CPT] appears to have started a thread named [C3P0PooledConnectionPoolManager-Helper Thread-#1] but has failed to stop it. This is very likely to create a memory leak.
+六月 17, 2018 5:31:53 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/CPT] appears to have started a thread named [C3P0PooledConnectionPoolManager-Helper Thread-#2] but has failed to stop it. This is very likely to create a memory leak.
+六月 17, 2018 5:31:53 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/CPT] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+六月 17, 2018 5:31:53 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8080"]
+六月 17, 2018 5:31:53 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]
+六月 17, 2018 5:31:53 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-apr-8080"]
+六月 17, 2018 5:31:53 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-apr-8009"]
